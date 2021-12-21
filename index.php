@@ -39,7 +39,7 @@
                 [
                     'title' => "Perché il mio account è associato a un paese?",
                     'text' => "Il tuo account è associato a un paese (o territorio) nei Termini di servizio per poter stabilire due cose:
-                    
+                    <div class='elenco'>
                     <ol>
                         <li>La società consociata Google che offre i servizi, tratta le tue informazioni ed è responsabile del rispetto delle leggi sulla privacy vigenti. Generalmente Google offre i propri servizi per i consumatori tramite una delle due società seguenti:</li>
                             <ol type='a'>
@@ -47,7 +47,7 @@
                                 <li>Google LLC, con sede negli Stati Uniti, per il resto del mondo.</li>
                             </ol>
                         <li>La versione dei termini che regola il nostro rapporto, che può variare in base alle leggi locali.</li>
-
+                    </div>
                         Tieni presente che i servizi Google sono fondamentalmente gli stessi a prescindere dalla società consociata che li offre o dal paese a cui è associato il tuo account."
                 ],
 
