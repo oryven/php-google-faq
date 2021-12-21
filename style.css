@@ -17,3 +17,7 @@ span {
 h2 {
     margin-top: 50px;
 }
+
+p {
+    text-align: justify;
+}
